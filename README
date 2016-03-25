@@ -6,9 +6,9 @@ This README would normally document whatever steps are necessary to get your app
 
 * First, we need our most important requirement Node.JS (To install, simply visit http://nodejs.org/)
 * Open up your command-line interface (Terminal for OSX/Ubuntu, Command Prompt, Git Bash, Node.JS command prompt for Windows)
-* Clone the project, in your command-line application type : "git clone git@git.sifast.local:soclefrontend.git"
-* To navigate to our project folder, in your command-line application type : "cd soclefrontend"
-* To install scss lint reporter checkstyle : "gem install scss_lint_reporter_checkstyle"
+* Clone the project, in your command-line application type : "git clone https://github.com/elloumi/socle-frontend-with-gulp.git"
+* To navigate to our project folder, in your command-line application type : "cd socle-frontend-with-gulp"
+* To install sass, scss lint and scss lint reporter checkstyle : "gem install sass scss_lint scss_lint_reporter_checkstyle"
 * To install Required Plugins, in your command-line application type : "npm install"
 * To run Gulp, in your command-line application type : "gulp" && "gulp watch"
 
@@ -18,5 +18,4 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner
-* FRONT END team
+* Repo owner : elloumi91@gmail.com
